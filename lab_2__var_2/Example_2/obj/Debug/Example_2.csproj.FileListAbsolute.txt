@@ -1,0 +1,6 @@
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_2__var_2\Example_2\bin\Debug\Example_2.exe
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_2__var_2\Example_2\bin\Debug\Example_2.pdb
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_2__var_2\Example_2\obj\Debug\Example_2.csproj.AssemblyReference.cache
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_2__var_2\Example_2\obj\Debug\Example_2.csproj.CoreCompileInputs.cache
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_2__var_2\Example_2\obj\Debug\Example_2.exe
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_2__var_2\Example_2\obj\Debug\Example_2.pdb

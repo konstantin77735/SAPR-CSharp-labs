@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Personal Computer\\Favorites\\SKGMI\\1. MyLabs\\MyCSharpLabs\\lab_1__var_1\\ReductorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0FED07-DF6D-4763-8C97-6DA4A276CCC3}|ReductorApp.csproj|c:\\users\\personal computer\\favorites\\skgmi\\1. mylabs\\mycsharplabs\\lab_1__var_1\\reductorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0FED07-DF6D-4763-8C97-6DA4A276CCC3}|ReductorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Personal Computer\\Favorites\\SKGMI\\1. MyLabs\\MyCSharpLabs\\lab_1__var_1\\ReductorApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Personal Computer\\Favorites\\SKGMI\\1. MyLabs\\MyCSharpLabs\\lab_1__var_1\\ReductorApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAYwHcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:20:26.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
