@@ -1,10 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\lab_1__var_1",
-    "\\lab_1__var_1\\ReductorApp\\bin",
-    "\\lab_1__var_1\\ReductorApp\\bin\\Debug"
+    "\\lab_2__var_2",
+    "\\lab_2__var_2\\Example_2",
+    "\\lab_2__var_2\\task_3\\bin",
+    "\\lab_2__var_2\\task_3\\bin\\Debug"
   ],
-  "SelectedNode": "\\lab_1__var_1",
+  "SelectedNode": "\\lab_2__var_2\\Example_2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
