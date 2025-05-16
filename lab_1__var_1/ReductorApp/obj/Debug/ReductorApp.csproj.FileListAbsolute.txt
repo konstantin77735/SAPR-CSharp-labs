@@ -1,0 +1,6 @@
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_1__var_1\ReductorApp\bin\Debug\ReductorApp.exe
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_1__var_1\ReductorApp\bin\Debug\ReductorApp.pdb
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_1__var_1\ReductorApp\obj\Debug\ReductorApp.csproj.AssemblyReference.cache
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_1__var_1\ReductorApp\obj\Debug\ReductorApp.csproj.CoreCompileInputs.cache
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_1__var_1\ReductorApp\obj\Debug\ReductorApp.exe
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\MyCSharpLabs\lab_1__var_1\ReductorApp\obj\Debug\ReductorApp.pdb

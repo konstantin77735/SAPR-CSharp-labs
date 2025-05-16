@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Personal Computer\\Favorites\\SKGMI\\1. MyLabs\\My-SAPR-CSharp-Labs\\lab_2__var_2\\task_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7170100-8F0D-4C40-B069-105E9F9160FD}|task_3.csproj|c:\\users\\personal computer\\favorites\\skgmi\\1. mylabs\\my-sapr-csharp-labs\\lab_2__var_2\\task_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7170100-8F0D-4C40-B069-105E9F9160FD}|task_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Personal Computer\\Favorites\\SKGMI\\1. MyLabs\\My-SAPR-CSharp-Labs\\lab_2__var_2\\task_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Personal Computer\\Favorites\\SKGMI\\1. MyLabs\\My-SAPR-CSharp-Labs\\lab_2__var_2\\task_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGUBAAAAAAAAAAAAAIgBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:44:55.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
