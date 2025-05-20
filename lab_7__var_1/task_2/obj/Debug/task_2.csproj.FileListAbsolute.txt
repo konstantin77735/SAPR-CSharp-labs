@@ -1,0 +1,6 @@
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\My-SAPR-CSharp-Labs\lab_7__var_1\task_2\bin\Debug\task_2.exe
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\My-SAPR-CSharp-Labs\lab_7__var_1\task_2\bin\Debug\task_2.pdb
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\My-SAPR-CSharp-Labs\lab_7__var_1\task_2\obj\Debug\task_2.csproj.AssemblyReference.cache
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\My-SAPR-CSharp-Labs\lab_7__var_1\task_2\obj\Debug\task_2.csproj.CoreCompileInputs.cache
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\My-SAPR-CSharp-Labs\lab_7__var_1\task_2\obj\Debug\task_2.exe
+C:\Users\Personal Computer\Favorites\SKGMI\1. MyLabs\My-SAPR-CSharp-Labs\lab_7__var_1\task_2\obj\Debug\task_2.pdb
